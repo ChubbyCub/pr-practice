@@ -7,8 +7,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Elise is an awesome person.
 
 ## Person B:
-
-Person B should modify content here.
+My name is Amy!
+Favorite Color
+Hobbies
 
 ## Person C:
 
