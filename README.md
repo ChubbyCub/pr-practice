@@ -8,7 +8,8 @@ Person A should modify content here.
 
 ## Person B:
 
-Person B should modify content here.
+Favorite Color
+Hobbies
 
 ## Person C:
 
