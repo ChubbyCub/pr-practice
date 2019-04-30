@@ -12,7 +12,10 @@ Person B should modify content here.
 
 ## Person C:
 
-Person C should modify content here.
+Damn, the street lights just came on!
+And my momma's in the streets tellin' me to come home
+I hit the gate and I hops on my Schwinn
+And I tell the homies, "Aight then," yeah
 
 ## Person D:
 
