@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Person A should modify content here.
 
 ## Person B:
-
+My name is Amy!
 Favorite Color
 Hobbies
 
